@@ -23,9 +23,8 @@ app.get('/category/:domain', async(req, res) => {
     
 })
 
-app.get('/api', async(req, res) => {
+app.post('/api', async(req, res) => {
     const {url} = req.body
-    // console.log(body)
     const data = await api(url)
     res.json({data})
 })
