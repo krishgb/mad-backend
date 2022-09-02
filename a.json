@@ -1,0 +1,187 @@
+[
+  {
+    "category": ["Anime"],
+    "totalUpvotes": 0,
+    "title": "kitsu",
+    "url": "http://docs.kitsu.apiary.io/",
+    "description": "Anime discovery platform",
+    "slug": "kitsu",
+    "logo": "https://images.apilist.fun/kitsu_api.png",
+    "objectID": "5be641155541eb2e4750395c",
+    "_highlightResult": {
+      "category": [
+        {
+          "value": "<em>Anime</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": ["anime"]
+        }
+      ],
+      "title": {"value": "kitsu", "matchLevel": "none", "matchedWords": []},
+      "description": {
+        "value": "<em>Anime</em> discovery platform",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": ["anime"]
+      }
+    }
+  },
+  {
+    "category": ["Anime"],
+    "totalUpvotes": 0,
+    "title": "anilist",
+    "url": "https://github.com/AniList/ApiV2-GraphQL-Docs",
+    "description": "Anime discovery & tracking",
+    "slug": "anilist",
+    "logo": "https://images.apilist.fun/anilist_api.png",
+    "objectID": "5be641155541eb2e4750395a",
+    "_highlightResult": {
+      "category": [
+        {
+          "value": "<em>Anime</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": ["anime"]
+        }
+      ],
+      "title": {"value": "anilist", "matchLevel": "none", "matchedWords": []},
+      "description": {
+        "value": "<em>Anime</em> discovery & tracking",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": ["anime"]
+      }
+    }
+  },
+  {
+    "category": ["Anime"],
+    "totalUpvotes": 0,
+    "title": "studio ghibli",
+    "url": "https://ghibliapi.herokuapp.com",
+    "description": "Resources from Studio Ghibli films",
+    "slug": "studio-ghibli",
+    "logo": "https://images.apilist.fun/studio_ghibli_api.png",
+    "objectID": "5be641155541eb2e4750395d",
+    "_highlightResult": {
+      "category": [
+        {
+          "value": "<em>Anime</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": ["anime"]
+        }
+      ],
+      "title": {
+        "value": "studio ghibli",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "description": {
+        "value": "Resources from Studio Ghibli films",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "category": ["Anime"],
+    "totalUpvotes": 0,
+    "title": "jikan",
+    "url": "https://jikan.moe",
+    "description": "Unofficial MyAnimeList API",
+    "slug": "jikan",
+    "logo": "https://images.apilist.fun/jikan_api.png",
+    "objectID": "5be641155541eb2e4750395b",
+    "_highlightResult": {
+      "category": [
+        {
+          "value": "<em>Anime</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": ["anime"]
+        }
+      ],
+      "title": {"value": "jikan", "matchLevel": "none", "matchedWords": []},
+      "description": {
+        "value": "Unofficial MyAnimeList API",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "category": [""],
+    "totalUpvotes": 2,
+    "logo": "https://images.apilist.fun/trace.moe_api.png",
+    "title": "trace.moe",
+    "url": "https://soruly.github.io/trace.moe/#/",
+    "description": "Scan anime image to get specific detail",
+    "slug": "trace.moe",
+    "objectID": "5d51ff7ad455f00802806037",
+    "_highlightResult": {
+      "category": [{"value": "", "matchLevel": "none", "matchedWords": []}],
+      "title": {"value": "trace.moe", "matchLevel": "none", "matchedWords": []},
+      "description": {
+        "value": "Scan <em>anime</em> image to get specific detail",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": ["anime"]
+      }
+    }
+  },
+  {
+    "category": ["Animals"],
+    "totalUpvotes": 0,
+    "title": "movebank",
+    "url": "https://github.com/movebank/movebank-api-doc",
+    "description": "Movement and Migration data of animals",
+    "slug": "movebank",
+    "logo": "https://images.apilist.fun/movebank_api.png",
+    "objectID": "5be641155541eb2e47503953",
+    "_highlightResult": {
+      "category": [
+        {
+          "value": "<em>Anima</em>ls",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["anime"]
+        }
+      ],
+      "title": {"value": "movebank", "matchLevel": "none", "matchedWords": []},
+      "description": {
+        "value": "Movement and Migration data of <em>anima</em>ls",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": ["anime"]
+      }
+    }
+  },
+  {
+    "category": ["Charts", "Visualizations", "Marketing"],
+    "totalUpvotes": 2,
+    "logo": "https://images.apilist.fun/image_charts_api.png",
+    "title": "image-charts",
+    "url": "https://www.image-charts.com/",
+    "description": "Image-Charts API returns a chart image in response to a URL GET or POST request. The API can generate many kinds of charts, from pie or line charts to bar charts and radars. All the information about the chart that you want, such as chart data, size, colors, and labels, are part of the URL. It can generates animated gif as well!",
+    "slug": "image-charts",
+    "objectID": "5d63e6f1daafa9289ace74c9",
+    "_highlightResult": {
+      "category": [
+        {"value": "Charts", "matchLevel": "none", "matchedWords": []},
+        {"value": "Visualizations", "matchLevel": "none", "matchedWords": []},
+        {"value": "Marketing", "matchLevel": "none", "matchedWords": []}
+      ],
+      "title": {
+        "value": "image-charts",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "description": {
+        "value": "Image-Charts API returns a chart image in response to a URL GET or POST request. The API can generate many kinds of charts, from pie or line charts to bar charts and radars. All the information about the chart that you want, such as chart data, size, colors, and labels, are part of the URL. It can generates <em>anima</em>ted gif as well!",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": ["anime"]
+      }
+    }
+  }
+]
