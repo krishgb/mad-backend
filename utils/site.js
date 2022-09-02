@@ -1,1 +1,1 @@
-export const URL = 'https://apilist.fun/'
+export const URL = 'https://apilist.fun'

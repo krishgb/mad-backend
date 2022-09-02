@@ -3,9 +3,8 @@ import cheerio from "cheerio";
 
 import { URL } from "../utils/site.js";
 
-export const category = async (cate) => {
-  const SEARCH_QUERY = "/category/";
-  const a = await axios.get(URL + SEARCH_QUERY + cate);
+export const home = async () => {
+  const a = await axios.get(URL);
   const b = await a.data;
 
   const $ = cheerio.load(b);
@@ -35,5 +34,6 @@ export const category = async (cate) => {
       desc: de,
     });
   }
+
   return data;
 };
