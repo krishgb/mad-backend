@@ -9,7 +9,6 @@ const getTxt = tags => {
     for(let k of j){
       if(k.type === 'text'){
         data.push(k.data.trim())
-        // console.log(k.data.trim())
       }
     }
   }

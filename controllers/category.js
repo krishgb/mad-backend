@@ -29,7 +29,7 @@ export const category = async (cate) => {
     j += 2;
 
     data.push({
-      href: URL + txtA.attribs.href,
+      url: URL + txtA.attribs.href,
       title: txtA.children[0].data,
       img: im.attribs["data-src"],
       desc: de,
