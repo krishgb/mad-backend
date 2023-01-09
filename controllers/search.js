@@ -6,8 +6,7 @@ export const search = async (keyword) => {
     const a = await axios.get(URL + SEARCH_QUERY + keyword)
     const b = await a.data
     const np = b.map(n => {
-        const {title, description, logo} = n
-        let url = 'https://apilist.fun/api/' + title.split(' ').join('-')
+        const {title, url, description, logo} = n
         return {title, url, description, logo}
     })
     return np
